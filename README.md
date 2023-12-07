@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arunsharmaa
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ... PhD mechanical 
+- 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... https://sites.google.com/view/arun-kumar-sharma/home?authuser=0
 
